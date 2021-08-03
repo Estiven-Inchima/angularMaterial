@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 2 2 auto;
+  }
+.colGr{
+    color: rgb(58, 172, 58);
+    background-color:white;
+}
+
+.example-button-row {
+    display: table-cell;
+    width: 490px;
+  }
